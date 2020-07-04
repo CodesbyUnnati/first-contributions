@@ -3,7 +3,6 @@
 - [Taha Dharamsi] (https://github.com/tahanzania)
 - CodeWithMughal
 - Ghassan Alrayyes
-- Unnati Mishra (https://github.com/CodesbyUnnati)
 - Daniel Pyon (https://github.com/danielpyon)
 - awotndn (https://github.com/awotndn)
 - rbsdeg (https://github.com/rbsdeg)
